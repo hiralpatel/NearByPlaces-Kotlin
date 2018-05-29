@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956520004739",
+    "firebase_url": "https://nearbyplaces-kotlin.firebaseio.com",
+    "project_id": "nearbyplaces-kotlin",
+    "storage_bucket": "nearbyplaces-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956520004739:android:18ae7f0145725987",
+        "android_client_info": {
+          "package_name": "com.hpandro.nearbyplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956520004739-8lfeoar1u1tqvk1ku1rqjkcas0b4astl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hpandro.nearbyplace",
+            "certificate_hash": "cdfef11e4f2217bd76fa66803fd21972c8c871ed"
+          }
+        },
+        {
+          "client_id": "956520004739-f1lglbgctrm75stbbsfgad4tguo9u7gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRX23j_PyE6aOsAiRYq1l7CyZVOg1qmq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956520004739-f1lglbgctrm75stbbsfgad4tguo9u7gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

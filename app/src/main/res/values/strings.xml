@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearbyPlaces</string>
+    <string name="google_maps_key">AIzaSyBqY_9cCCFX5csT8MMVorXBc5JnjS2EAUM</string>
+    <!--<string name="google_maps_key">AIzaSyCbdI_8MwLhFb1JFD4rd3ImsJBg8WSGeuo</string>-->
+</resources>

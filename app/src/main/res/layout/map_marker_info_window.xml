@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:gravity="center_vertical"
+    android:minHeight="120dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:id="@+id/tvDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+        android:textColor="@color/primary_text" />
+
+    <RatingBar
+        android:id="@+id/ratings"
+        style="?android:attr/ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="15dp"
+        android:layout_marginTop="5dp"
+        android:clickable="false"
+        android:numStars="5"
+        android:rating="4.5" />
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_lat"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Body1"-->
+    <!--android:textColor="@color/primary_text" />-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/tv_lng"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Body1"-->
+    <!--android:textColor="@color/primary_text" />-->
+</LinearLayout>
